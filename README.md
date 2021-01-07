@@ -11,9 +11,7 @@ The browser will ask you to have permission to your camera and microphone when u
 <br><br>
 I used to host this project on <b>herokuapp.com</b>
 <br><br>
-This Project is for educational purpose and not for commercial.
-
-
+This Project is for educational purpose and not for commercial.<br><br>
 /****** Technologies Used *******/
  1) Node.js
  2) Express JS
