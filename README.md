@@ -8,9 +8,9 @@ Peer to peer Video Chat with just One Click: <br/>
 </div>
 A unique room id will be genrated each time when you open the above link, when you share the link with another person, you will be in the same room starting video conferencing <br/>
 The browser will ask you to have permission to your camera and microphone when using this app for the first time.
-<br>
-I used to host this project on herokuapp.com
-<br>
+<br><br>
+I used to host this project on <b>herokuapp.com</b>
+<br><br>
 This Project is for educational purpose and not for commercial.
 
 
