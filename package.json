@@ -1,5 +1,5 @@
 {
-  "name": "uob-zoom-clone",
+  "name": "uob-video-chat-zoom-clone",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shouraya/Zoom-Clone.git"
+    "url": "git+https://github.com/rabihkahaleh/uobvideochat.git"
   },
   "author": "Shouraya Goyal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Shouraya/Zoom-Clone/issues"
+    "url": "https://github.com/rabihkahaleh/uobvideochat/issues"
   },
-  "homepage": "https://github.com/Shouraya/Zoom-Clone#readme",
+  "homepage": "https://github.com/rabihkahaleh/uobvideochat#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "ejs": "^3.1.5",
