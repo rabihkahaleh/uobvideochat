@@ -13,8 +13,7 @@ I used to host this project on <b>herokuapp.com</b>
 <br><br>
 This Project is for educational purpose and not for commercial.
 <br>
-<br>
-<b> Technologies Used </b>
+---- Technologies Used ----
  1) Node.js
  2) Express JS
  3) CSS
