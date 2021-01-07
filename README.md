@@ -3,7 +3,7 @@
 Peer to peer Video Chat with just One Click: <br/>
 <div align="center">
 <pre>
-<a href="https://uobvideochat.herokuapp.com/">https://uobvideochat.herokuapp.com/</a>
+<a href="https://uobvideochat.herokuapp.com/" target="_new">https://uobvideochat.herokuapp.com/</a>
 </pre>
 </div>
 A unique room id will be genrated each time when you open the above link, when you share the link with another person, you will be in the same room starting video conferencing <br/>
