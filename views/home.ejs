@@ -31,7 +31,7 @@
     <script src="/socket.io/socket.io.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://kit.fontawesome.com/c939d0e917.js"></script>
-    <title>Zoom Clone</title>
+    <title>Video Chat Zoom Clone</title>
   </head>
   <body>
     <div class="home">
@@ -73,7 +73,7 @@
         var meetingId = $("#meeting-number").val();
 
         console.log(meetingId);
-        url = `localhost:3030/${meetingId}`;
+        url = `https://uobvideochat.herokuapp.com/${meetingId}`;
         console.log(url);
         window.location = url;
       };
